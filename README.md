@@ -1,4 +1,4 @@
-# Customer-Data-Analysis-Tableau
+# Customer-Sales-Analysis-Tableau
 This repository will showcase my Customer Analysis Dashboard using Tableau.
 The data source was taken from Stanley George Joseph from Youtube.
 
